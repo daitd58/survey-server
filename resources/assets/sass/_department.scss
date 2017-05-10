@@ -1,0 +1,13 @@
+.page_header {
+    display: table;
+    width: 100%;
+
+    .item {
+        display: table-cell;
+        vertical-align: middle;
+
+        .btn {
+            float: right;
+        }
+    }
+}
